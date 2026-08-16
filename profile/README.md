@@ -6,6 +6,8 @@ We are **Ayoub Chalabi** and **Ishak Benfiala** — engineering students at the 
 
 > We are currently raising capital and technical partnerships to realize our first physical production prototype. We are actively calling on visionary investors, industrial partners, and technical advisors to join us in bringing this first prototype to life and accelerating robotic automation across Algeria's industrial landscape.
 
+[Vist](https://iaysaac.netlify.app)
+
 ---
 
 ## The AR4 Robot Arm
