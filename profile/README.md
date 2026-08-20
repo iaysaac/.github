@@ -2,7 +2,7 @@
 
 **Pioneering industrial 6-axis robotic automation in Algeria.**
 
-We are **Ayoub Chalabi** — engineering students at the Higher National School of Advanced Technologies (ENSTA), Algeria, and co-founders of an initiative to manufacture, customize, and deploy industrial 6-axis robot arms for manufacturing industries across Algeria.
+We are **Ayoub Chalabi** — engineering student at the Higher National School of Advanced Technologies (ENSTA), Algeria, and founder of an initiative to manufacture, customize, and deploy industrial 6-axis robot arms for manufacturing industries across Algeria.
 
 > We are currently raising capital and technical partnerships to realize our first physical production prototype. We are actively calling on visionary investors, industrial partners, and technical advisors to join us in bringing this first prototype to life and accelerating robotic automation across Algeria's industrial landscape.
 
